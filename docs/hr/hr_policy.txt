@@ -1,0 +1,106 @@
+ACME CORPORATION — HUMAN RESOURCES POLICY MANUAL
+Version 4.2 | Effective Date: January 1, 2024
+=================================================
+
+1. ANNUAL LEAVE POLICY
+----------------------
+Full-time employees are entitled to 15 days of paid annual leave per calendar year.
+Part-time employees receive leave on a pro-rated basis proportional to their working hours.
+Annual leave accrues at 1.25 days per month. A maximum of 5 unused days may be carried
+over to the following year. Any balance above 5 days is forfeited on December 31st.
+Employees must request annual leave at least 5 business days in advance via the HR portal.
+Leave during the last two weeks of Q4 (December 17–31) requires manager approval due to
+end-of-year deadlines. Leave cannot be taken during the employee's first 90 days of employment.
+
+2. SICK LEAVE POLICY
+--------------------
+Employees are entitled to 10 days of paid sick leave per calendar year. Sick leave does not
+carry over to the following year. For absences exceeding 3 consecutive days, a doctor's
+certificate must be submitted to HR within 5 business days. Sick leave may be used for the
+employee's own illness or to care for an immediate family member (spouse, child, parent).
+
+3. MATERNITY AND PATERNITY LEAVE
+---------------------------------
+Primary caregiver: 16 weeks of fully paid maternity/adoption leave.
+Secondary caregiver: 4 weeks of fully paid paternity/adoption leave.
+Employees must provide at least 8 weeks' written notice before the expected leave start date.
+Leave may begin up to 4 weeks before the expected birth/adoption date.
+
+4. REMOTE WORK POLICY
+---------------------
+Employees may work remotely up to 3 days per week after completing their 6-month probationary
+period. Remote work days must be agreed upon with the direct manager in advance.
+The employee is responsible for maintaining a safe, ergonomic, and distraction-free workspace.
+Core working hours of 10:00 AM – 3:00 PM (local time) must be maintained regardless of location.
+Employees working remotely must be reachable via Slack and respond within 30 minutes during
+core hours. Fully remote arrangements (5 days/week) require VP-level approval and are reviewed
+annually. Employees cannot work remotely from outside their country of employment without
+prior written approval from HR and Legal.
+
+5. CODE OF CONDUCT
+------------------
+ACME Corporation expects all employees to act with integrity, respect, and professionalism.
+This includes: treating colleagues, clients, and partners with dignity; maintaining
+confidentiality of proprietary information; avoiding conflicts of interest; not engaging in
+harassment, discrimination, or bullying of any kind; and reporting suspected violations of
+company policy through the Ethics Hotline (1-800-555-ETHIC) or ethics@acme.com.
+Violations of the code of conduct may result in disciplinary action up to and including
+termination.
+
+6. PERFORMANCE REVIEW PROCESS
+------------------------------
+ACME conducts formal performance reviews twice per year:
+- Mid-Year Review: conducted in June (covers January–June)
+- Annual Review: conducted in December (covers July–December)
+
+Each review includes: a self-assessment by the employee, a written evaluation by the direct
+manager, and a 1-on-1 discussion meeting. Performance is rated on a 5-point scale:
+1 – Below Expectations, 2 – Developing, 3 – Meets Expectations, 4 – Exceeds Expectations,
+5 – Outstanding. Salary adjustments and promotions are tied to the Annual Review in December.
+Employees rated 1 (Below Expectations) for two consecutive cycles will enter a Performance
+Improvement Plan (PIP).
+
+7. COMPENSATION AND BENEFITS
+-----------------------------
+Health Insurance: ACME provides BlueCross BlueShield health insurance coverage for the employee
+and their immediate family (spouse + up to 3 dependents). The company covers 80% of the
+premium; the employee covers 20% via pre-tax payroll deduction.
+
+Dental and Vision: Employees receive dental and vision coverage through MetLife. Annual dental
+benefit is $2,000. Annual vision benefit is $500.
+
+401(k) Retirement Plan: ACME matches 100% of employee contributions up to 5% of base salary.
+Employees are eligible to enroll after 90 days of employment. Vesting is immediate for
+employee contributions; company match vests over 3 years (33% per year).
+
+Life Insurance: ACME provides term life insurance equal to 2x the employee's annual salary
+at no cost to the employee.
+
+Employee Assistance Program (EAP): All employees have access to 6 free counseling sessions
+per year through the EAP. Contact: eap@acme.com or 1-800-555-HELP.
+
+8. ONBOARDING PROCESS
+----------------------
+New employees go through a structured 30-60-90 day onboarding plan:
+- Day 1: IT setup, security training, HR orientation
+- Week 1: Meet the team, review team OKRs, complete compliance modules
+- Month 1: Shadow key meetings, complete assigned onboarding tasks
+- Day 60: First check-in meeting with manager and HR
+- Day 90: Probationary period ends; remote work eligibility begins
+
+9. DISCIPLINARY POLICY
+-----------------------
+ACME follows a progressive disciplinary process:
+Step 1: Verbal Warning (documented in HR system)
+Step 2: Written Warning
+Step 3: Final Written Warning / Suspension (with or without pay)
+Step 4: Termination
+Serious misconduct (fraud, violence, data theft) may result in immediate termination
+without progression through the steps above.
+
+10. GRIEVANCE POLICY
+---------------------
+Employees with workplace concerns should first raise them with their direct manager.
+If unresolved within 5 business days, escalate to HR via hr@acme.com.
+Formal grievances are acknowledged within 2 business days and resolved within 15 business
+days. Employees may not be retaliated against for filing a legitimate grievance.
