@@ -77,52 +77,6 @@ enterprise-rag-bot/
 └── README.md
 ```
 
----
-
-## Files to Commit to Git
-
-Push these files — **do not push** `.env`, `venv/`, `tests/`, or `evaluation_report.json`.
-
-```
-✅ src/__init__.py
-✅ src/state.py
-✅ src/config.py
-✅ src/ingestion.py
-✅ src/graph.py
-✅ src/nodes/__init__.py
-✅ src/nodes/router.py
-✅ src/nodes/retriever.py
-✅ src/nodes/grader.py
-✅ src/nodes/generator.py
-✅ src/nodes/checker.py
-✅ app.py
-✅ evaluate.py
-✅ requirements.txt
-✅ .env.example
-✅ docs/hr/hr_policy.txt
-✅ docs/technical/tech_docs.txt
-✅ docs/compliance/compliance_manual.txt
-✅ README.md
-
-❌ .env                   ← real API keys — never commit
-❌ venv/                  ← virtual environment
-❌ tests/                 ← node-by-node unit tests (local dev only)
-❌ evaluation_report.json ← generated output
-❌ __pycache__/
-```
-
-**Recommended `.gitignore`:**
-```
-.env
-venv/
-__pycache__/
-*.pyc
-evaluation_report.json
-.pytest_cache/
-```
-
----
-
 ## Setup
 
 ```powershell
